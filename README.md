@@ -5,7 +5,7 @@
 ![Language: C++](https://img.shields.io/badge/Language-C-orange)
 
 ## 📌 Project Overview
-The **Bloomie** is an in-development IoT project designed to autonomously monitor plant health parameters. The ultimate goal is to create a fully integrated, low-power embedded system featuring a custom PCB, Real-Time Operating System architecture, and a responsive web dashboard for remote monitoring.
+The **Bloomie** is an in-development IoT project designed to monitor plant health parameters. The ultimate goal is to create a fully integrated, low-power embedded system featuring a custom PCB, Real-Time Operating System architecture, and a responsive web dashboard for remote monitoring.
 
 Currently, the project is in the **v0.1 MVP (Minimum Viable Product)** phase, focusing on establishing reliable hardware connections and precise analog data acquisition from a soil moisture sensor.
 
